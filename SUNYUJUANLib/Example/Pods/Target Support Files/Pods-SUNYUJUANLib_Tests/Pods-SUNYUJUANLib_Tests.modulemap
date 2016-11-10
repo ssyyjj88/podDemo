@@ -1,0 +1,6 @@
+framework module Pods_SUNYUJUANLib_Tests {
+  umbrella header "Pods-SUNYUJUANLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

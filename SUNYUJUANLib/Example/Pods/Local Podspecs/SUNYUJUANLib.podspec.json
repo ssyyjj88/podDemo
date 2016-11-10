@@ -1,0 +1,22 @@
+{
+  "name": "SUNYUJUANLib",
+  "version": "0.1.0",
+  "summary": "SUNYUJUANLib.",
+  "description": "it is my lib",
+  "homepage": "https://github.com/ssyyjj88/podDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ssyyjj88": "ssyyjj888@126.com"
+  },
+  "source": {
+    "git": "https://github.com/ssyyjj88/podDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SUNYUJUANLib/Classes/**/*"
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SUNYUJUANLib_Example' do
+  pod 'SUNYUJUANLib', :path => '../'
+
+  target 'SUNYUJUANLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

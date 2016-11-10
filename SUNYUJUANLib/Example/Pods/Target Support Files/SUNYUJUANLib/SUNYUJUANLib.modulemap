@@ -1,0 +1,6 @@
+framework module SUNYUJUANLib {
+  umbrella header "SUNYUJUANLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
