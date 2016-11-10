@@ -18,5 +18,8 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "SUNYUJUANLib/Classes/**/*"
+  "source_files": "SUNYUJUANLib/**/*.{h,m}",
+  "xcconfig": {
+    "OTHER_LDFLAGS": "-lz"
+  }
 }

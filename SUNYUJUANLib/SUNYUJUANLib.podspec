@@ -30,7 +30,11 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'SUNYUJUANLib/Classes/**/*'
+s.source_files = "SUNYUJUANLib/**/*.{h,m}"
+
+s.xcconfig = { "OTHER_LDFLAGS" => "-lz" }
+
+#'SUNYUJUANLib/Classes/**/*'
   
   # s.resource_bundles = {
   #   'SUNYUJUANLib' => ['SUNYUJUANLib/Assets/*.png']
