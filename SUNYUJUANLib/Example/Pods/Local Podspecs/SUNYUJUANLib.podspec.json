@@ -16,10 +16,9 @@
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": null
   },
-  "source_files": "SUNYUJUANLib/**/*.{h,m}",
-  "xcconfig": {
-    "OTHER_LDFLAGS": "-lz"
+  "ios": {
+    "source_files": "SUNYUJUANLib/**/*.{h,m}"
   }
 }

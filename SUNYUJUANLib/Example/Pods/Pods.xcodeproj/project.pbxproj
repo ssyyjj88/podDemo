@@ -7,15 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C1DFBFD43E46E71A9344E51BD29ED1D /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = F553C1780BFDA4BF5C9C911345859065 /* ReplaceMe.m */; settings = {COMPILER_FLAGS = "-DOS_OBJECT_USE_OBJC=0"; }; };
 		1BD36B3A9F1E5E672F6246F3155AD45E /* Pods-SUNYUJUANLib_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4D5F11712351562435B0BB3B98FD418F /* Pods-SUNYUJUANLib_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		24167BFC9FFE8C7BD8D0F3D65DA2EB6A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
 		57BDF40B345C7B4405E4A678912572FA /* Pods-SUNYUJUANLib_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B1D40AB880D7469CA2A672FDC349AB1 /* Pods-SUNYUJUANLib_Example-dummy.m */; };
 		57D773475B2E9F588BE036995E38B817 /* SUNYUJUANLib-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 12159AA2BEBC65BCCE0035439762EED8 /* SUNYUJUANLib-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		77B1A38DB4BBB364DE3F2DB57A485D0C /* SUNYUJUANLib-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C47D9C7B572A35DC31DCAAB240C27374 /* SUNYUJUANLib-dummy.m */; };
 		816D97CEDE56371BF795773BA103A478 /* Pods-SUNYUJUANLib_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B7A97326B1E5DBA178A9439EDA4B8D4 /* Pods-SUNYUJUANLib_Tests-dummy.m */; };
-		B8BE64EFD564CA16EE1DF02CCD31461E /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = F553C1780BFDA4BF5C9C911345859065 /* ReplaceMe.m */; };
 		C995D8B9F8D5FA5DC6ADF7266A3ABDDD /* Pods-SUNYUJUANLib_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4028499C7ADBFD64CFBADDA9B5E2D418 /* Pods-SUNYUJUANLib_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D2B0660DD9885CED8F3A307273A4BD16 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
-		EC1AC55FCAD235ADFA18BB33CA876848 /* SUNYUJUANLib-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C47D9C7B572A35DC31DCAAB240C27374 /* SUNYUJUANLib-dummy.m */; };
 		FA8ECC11783EC1B4EA3F028CC559A9E8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
@@ -293,7 +293,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 34E3927FBC49C0AA1E6DF11C54AAB8EA /* Build configuration list for PBXNativeTarget "SUNYUJUANLib" */;
 			buildPhases = (
-				B51FEA6843C29C8D42DE6219EF7D20A5 /* Sources */,
+				411A85089C3D1790BDE2268E985D821F /* Sources */,
 				5AC0DF820AF9C05FD26E16E19BAE7AD2 /* Frameworks */,
 				95C66407A001E147D84E014738720013 /* Headers */,
 			);
@@ -343,12 +343,12 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B51FEA6843C29C8D42DE6219EF7D20A5 /* Sources */ = {
+		411A85089C3D1790BDE2268E985D821F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B8BE64EFD564CA16EE1DF02CCD31461E /* ReplaceMe.m in Sources */,
-				EC1AC55FCAD235ADFA18BB33CA876848 /* SUNYUJUANLib-dummy.m in Sources */,
+				0C1DFBFD43E46E71A9344E51BD29ED1D /* ReplaceMe.m in Sources */,
+				77B1A38DB4BBB364DE3F2DB57A485D0C /* SUNYUJUANLib-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

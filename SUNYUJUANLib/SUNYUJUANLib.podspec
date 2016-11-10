@@ -30,9 +30,10 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-s.source_files = "SUNYUJUANLib/**/*.{h,m}"
+#  s.source_files
+  s.ios.source_files = "SUNYUJUANLib/**/*.{h,m}"
 
-s.xcconfig = { "OTHER_LDFLAGS" => "-lz" }
+  s.platform = :ios
 
 #'SUNYUJUANLib/Classes/**/*'
   
