@@ -16,9 +16,7 @@
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": null
+    "ios": "8.0"
   },
-  "ios": {
-    "source_files": "SUNYUJUANLib/**/*.{h,m}"
-  }
+  "source_files": "SUNYUJUANLib/Classes/**/*"
 }

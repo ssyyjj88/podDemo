@@ -2,7 +2,7 @@ use_frameworks!
 
 target 'SUNYUJUANLib_Example' do
   pod 'SUNYUJUANLib', :path => '../'
-
+    #pod 'SUNYUJUANLib', :podspec => '../SUNYUJUANLib.podspec'
   target 'SUNYUJUANLib_Tests' do
     inherit! :search_paths
 

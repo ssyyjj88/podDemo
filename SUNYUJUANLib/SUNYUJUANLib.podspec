@@ -30,7 +30,7 @@ s.source           = { :git => 'https://github.com/ssyyjj88/podDemo.git', :tag =
 
 s.ios.deployment_target = '8.0'
 
-s.source_files = 'SUNYUJUANLib/*.{h,m}'
+s.source_files = 'SUNYUJUANLib/Classes/**/*'
 #'Classes', 'Classes/**/*.{h,m}'
 #'SUNYUJUANLib/Classes/**/*'
 
