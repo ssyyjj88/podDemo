@@ -18,5 +18,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "SUNYUJUANLib/**/*"
+  "source_files": "SUNYUJUANLib/Classes/**/**/*.{h,m}"
 }
