@@ -10,15 +10,15 @@
 		104A5DC6D75840989AC461D57103136E /* Pods-SUNYUJUANLib_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4028499C7ADBFD64CFBADDA9B5E2D418 /* Pods-SUNYUJUANLib_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		14390AE3259982564BB8EECEA7156BEF /* Pods-SUNYUJUANLib_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4D5F11712351562435B0BB3B98FD418F /* Pods-SUNYUJUANLib_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		326B3E3A79C433766EADDE11D0D730B9 /* Pods-SUNYUJUANLib_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B1D40AB880D7469CA2A672FDC349AB1 /* Pods-SUNYUJUANLib_Example-dummy.m */; };
-		372834CD85817D75372DEEC400163A47 /* PodTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E21C968AC26F937DAA300E404FFB617 /* PodTest.m */; };
-		4DF607D7153A394B3E7E05279A69DDB9 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = EF4B51EACA8378320EC6CC2A178A2D24 /* ReplaceMe.m */; };
-		508274AB7B485656F906DA4BF8CCF8A7 /* SUNYUJUANLib-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C47D9C7B572A35DC31DCAAB240C27374 /* SUNYUJUANLib-dummy.m */; };
+		372834CD85817D75372DEEC400163A47 /* PodTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C2009C330C22680E14422C7982F69C5 /* PodTest.m */; };
+		4DF607D7153A394B3E7E05279A69DDB9 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = F9FCC4C462B1FC93FA1D128552A66E5C /* ReplaceMe.m */; };
+		508274AB7B485656F906DA4BF8CCF8A7 /* SUNYUJUANLib-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B64C0DAE09780277322FA4DF9CA612BC /* SUNYUJUANLib-dummy.m */; };
 		6EFD3DC2C0087D471161DA839ED12DB1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
 		7A51D5FAB035D83CD43F52CDDDB72AAB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
 		ACBE73DB871953BD259DD1317705FDBB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
-		D3798E788B22704982B31C727CD8D9D0 /* SUNYUJUANLib-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 12159AA2BEBC65BCCE0035439762EED8 /* SUNYUJUANLib-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		D3798E788B22704982B31C727CD8D9D0 /* SUNYUJUANLib-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 740AFA6BC19CB2988913C20399C2CBA1 /* SUNYUJUANLib-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DA4901559EB365CDEA47FC62329364DE /* Pods-SUNYUJUANLib_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9B7A97326B1E5DBA178A9439EDA4B8D4 /* Pods-SUNYUJUANLib_Tests-dummy.m */; };
-		E7FC197F66962CA407B6CFA249EE574E /* PodTest.h in Headers */ = {isa = PBXBuildFile; fileRef = EA55C1AEE99DFBAE9BBD86B30554BF13 /* PodTest.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E7FC197F66962CA407B6CFA249EE574E /* PodTest.h in Headers */ = {isa = PBXBuildFile; fileRef = 0BCC615A2F4F246DF187859C84DB7ECF /* PodTest.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,17 +34,16 @@
 /* Begin PBXFileReference section */
 		0005A8F52BF74AACD05B38B8ADF536B1 /* Pods-SUNYUJUANLib_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SUNYUJUANLib_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		0406D4FA42FEC56A84DDB79CD147DEBA /* Pods_SUNYUJUANLib_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SUNYUJUANLib_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		12159AA2BEBC65BCCE0035439762EED8 /* SUNYUJUANLib-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SUNYUJUANLib-umbrella.h"; sourceTree = "<group>"; };
+		0BCC615A2F4F246DF187859C84DB7ECF /* PodTest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PodTest.h; sourceTree = "<group>"; };
 		1391793BB355401139BC8A92AFFA0FFB /* Pods-SUNYUJUANLib_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SUNYUJUANLib_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		143CAB8B71843BBB5944E28F3CD0781E /* Pods-SUNYUJUANLib_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SUNYUJUANLib_Example-frameworks.sh"; sourceTree = "<group>"; };
-		14CDC327A04BC9B6133E293C6185B50B /* SUNYUJUANLib.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SUNYUJUANLib.xcconfig; sourceTree = "<group>"; };
 		1C6D4B5D98149633860EAFD51461B102 /* Pods_SUNYUJUANLib_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SUNYUJUANLib_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		23802542FEECD63C05978F5D97753419 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		23C6FDEB6B49F162D5484FB167D2F063 /* Pods-SUNYUJUANLib_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SUNYUJUANLib_Tests.modulemap"; sourceTree = "<group>"; };
+		2A16270BDAA019CFB0D70B7E56A6E84F /* SUNYUJUANLib.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SUNYUJUANLib.modulemap; sourceTree = "<group>"; };
 		32AE0FEA1BD6447DCFAFFCF7653A3194 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3B712C4BF79AC313C39C13C7DD6E5B5A /* SUNYUJUANLib.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = SUNYUJUANLib.modulemap; sourceTree = "<group>"; };
 		3ED519FC2EBEB4CF7591C042021C40E7 /* Pods-SUNYUJUANLib_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SUNYUJUANLib_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		4028499C7ADBFD64CFBADDA9B5E2D418 /* Pods-SUNYUJUANLib_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SUNYUJUANLib_Tests-umbrella.h"; sourceTree = "<group>"; };
+		432A9CB5E1F5EBCE953978848FC2885C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		48043643C8D50B88A232FBD21699E24C /* Pods-SUNYUJUANLib_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SUNYUJUANLib_Example.modulemap"; sourceTree = "<group>"; };
 		4C1A0BBF6CD0CBBDA4B950AC559B5930 /* Pods-SUNYUJUANLib_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SUNYUJUANLib_Tests-resources.sh"; sourceTree = "<group>"; };
 		4D5F11712351562435B0BB3B98FD418F /* Pods-SUNYUJUANLib_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SUNYUJUANLib_Example-umbrella.h"; sourceTree = "<group>"; };
@@ -53,19 +52,20 @@
 		712FB0EE622309696D892A04CD69A0F7 /* Pods-SUNYUJUANLib_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SUNYUJUANLib_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		71D610CC8CADB228FD08FF3C0BC7F2E7 /* Pods-SUNYUJUANLib_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SUNYUJUANLib_Example.release.xcconfig"; sourceTree = "<group>"; };
 		73037A19591A89D6367FAE7A34DFA831 /* Pods-SUNYUJUANLib_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SUNYUJUANLib_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		740AFA6BC19CB2988913C20399C2CBA1 /* SUNYUJUANLib-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SUNYUJUANLib-umbrella.h"; sourceTree = "<group>"; };
 		7A1593DC299BB811DD4632704FAB47C2 /* Pods-SUNYUJUANLib_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SUNYUJUANLib_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		7B1D40AB880D7469CA2A672FDC349AB1 /* Pods-SUNYUJUANLib_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SUNYUJUANLib_Example-dummy.m"; sourceTree = "<group>"; };
+		86CC0AB53E0977C05635D0549B33E465 /* SUNYUJUANLib.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SUNYUJUANLib.xcconfig; sourceTree = "<group>"; };
 		8D44ADFDD79ACA70CB6A5F4430E8106A /* Pods-SUNYUJUANLib_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SUNYUJUANLib_Example-resources.sh"; sourceTree = "<group>"; };
-		8E21C968AC26F937DAA300E404FFB617 /* PodTest.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = PodTest.m; sourceTree = "<group>"; };
 		915055B89701701A15D3585105D18802 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9B7A97326B1E5DBA178A9439EDA4B8D4 /* Pods-SUNYUJUANLib_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SUNYUJUANLib_Tests-dummy.m"; sourceTree = "<group>"; };
-		AA369C50A94E16E66363959B94B83886 /* SUNYUJUANLib-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SUNYUJUANLib-prefix.pch"; sourceTree = "<group>"; };
+		9C2009C330C22680E14422C7982F69C5 /* PodTest.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = PodTest.m; sourceTree = "<group>"; };
 		B000DC2BDD0929BC539DC578FE1374FC /* Pods-SUNYUJUANLib_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SUNYUJUANLib_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		C47D9C7B572A35DC31DCAAB240C27374 /* SUNYUJUANLib-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SUNYUJUANLib-dummy.m"; sourceTree = "<group>"; };
+		B64C0DAE09780277322FA4DF9CA612BC /* SUNYUJUANLib-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SUNYUJUANLib-dummy.m"; sourceTree = "<group>"; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		EA55C1AEE99DFBAE9BBD86B30554BF13 /* PodTest.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PodTest.h; sourceTree = "<group>"; };
-		EF4B51EACA8378320EC6CC2A178A2D24 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
+		D517482886089656F3D2397B61CDB931 /* SUNYUJUANLib-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SUNYUJUANLib-prefix.pch"; sourceTree = "<group>"; };
+		F9FCC4C462B1FC93FA1D128552A66E5C /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = ReplaceMe.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,18 +106,10 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		27652AB7B421C68754D47140040E86D7 /* SUNYUJUANLib */ = {
-			isa = PBXGroup;
-			children = (
-				56C5F119D32C295DE385A84FC61AF8A7 /* Classes */,
-			);
-			path = SUNYUJUANLib;
-			sourceTree = "<group>";
-		};
 		32A60B2E6BE7FB750CED71243518A12C /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				5C2481CE026C956F3222B7C6DCEF2159 /* SUNYUJUANLib */,
+				FE9AE3636D7814925155317E5D9070EA /* SUNYUJUANLib */,
 			);
 			name = "Development Pods";
 			sourceTree = "<group>";
@@ -129,20 +121,6 @@
 				968E0259C66308946DBAB4AC68AE52CF /* Pods-SUNYUJUANLib_Tests */,
 			);
 			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
-		428285D2B8FA5CB2371D7095AAAFB277 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				23802542FEECD63C05978F5D97753419 /* Info.plist */,
-				3B712C4BF79AC313C39C13C7DD6E5B5A /* SUNYUJUANLib.modulemap */,
-				14CDC327A04BC9B6133E293C6185B50B /* SUNYUJUANLib.xcconfig */,
-				C47D9C7B572A35DC31DCAAB240C27374 /* SUNYUJUANLib-dummy.m */,
-				AA369C50A94E16E66363959B94B83886 /* SUNYUJUANLib-prefix.pch */,
-				12159AA2BEBC65BCCE0035439762EED8 /* SUNYUJUANLib-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/SUNYUJUANLib";
 			sourceTree = "<group>";
 		};
 		54BFDCFB352E670E74F018184AC0ED33 /* Pods-SUNYUJUANLib_Example */ = {
@@ -163,26 +141,6 @@
 			path = "Target Support Files/Pods-SUNYUJUANLib_Example";
 			sourceTree = "<group>";
 		};
-		56C5F119D32C295DE385A84FC61AF8A7 /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				EA55C1AEE99DFBAE9BBD86B30554BF13 /* PodTest.h */,
-				8E21C968AC26F937DAA300E404FFB617 /* PodTest.m */,
-				EF4B51EACA8378320EC6CC2A178A2D24 /* ReplaceMe.m */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		5C2481CE026C956F3222B7C6DCEF2159 /* SUNYUJUANLib */ = {
-			isa = PBXGroup;
-			children = (
-				27652AB7B421C68754D47140040E86D7 /* SUNYUJUANLib */,
-				428285D2B8FA5CB2371D7095AAAFB277 /* Support Files */,
-			);
-			name = SUNYUJUANLib;
-			path = ../..;
-			sourceTree = "<group>";
-		};
 		7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -200,6 +158,20 @@
 				101F730CBD7B217628B3316A948DCD7F /* Products */,
 				397CA063CBF52AF74B922A0273ABAAA4 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		830EB2B2CA17A3160516CD69C448A02F /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				432A9CB5E1F5EBCE953978848FC2885C /* Info.plist */,
+				2A16270BDAA019CFB0D70B7E56A6E84F /* SUNYUJUANLib.modulemap */,
+				86CC0AB53E0977C05635D0549B33E465 /* SUNYUJUANLib.xcconfig */,
+				B64C0DAE09780277322FA4DF9CA612BC /* SUNYUJUANLib-dummy.m */,
+				D517482886089656F3D2397B61CDB931 /* SUNYUJUANLib-prefix.pch */,
+				740AFA6BC19CB2988913C20399C2CBA1 /* SUNYUJUANLib-umbrella.h */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/SUNYUJUANLib";
 			sourceTree = "<group>";
 		};
 		968E0259C66308946DBAB4AC68AE52CF /* Pods-SUNYUJUANLib_Tests */ = {
@@ -226,6 +198,34 @@
 				7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D5DC9509F7AC2E501A6214ACF6ACEE5C /* SUNYUJUANLib */ = {
+			isa = PBXGroup;
+			children = (
+				0BCC615A2F4F246DF187859C84DB7ECF /* PodTest.h */,
+				9C2009C330C22680E14422C7982F69C5 /* PodTest.m */,
+				F16A5B336017CE57FE754797783F7373 /* Classes */,
+			);
+			path = SUNYUJUANLib;
+			sourceTree = "<group>";
+		};
+		F16A5B336017CE57FE754797783F7373 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				F9FCC4C462B1FC93FA1D128552A66E5C /* ReplaceMe.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		FE9AE3636D7814925155317E5D9070EA /* SUNYUJUANLib */ = {
+			isa = PBXGroup;
+			children = (
+				D5DC9509F7AC2E501A6214ACF6ACEE5C /* SUNYUJUANLib */,
+				830EB2B2CA17A3160516CD69C448A02F /* Support Files */,
+			);
+			name = SUNYUJUANLib;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -525,7 +525,7 @@
 		};
 		947A386E2BD1075AD9028ABCAF18C577 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 14CDC327A04BC9B6133E293C6185B50B /* SUNYUJUANLib.xcconfig */;
+			baseConfigurationReference = 86CC0AB53E0977C05635D0549B33E465 /* SUNYUJUANLib.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -635,7 +635,7 @@
 		};
 		D8B6913502139AE226F6D9EDF024F4ED /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 14CDC327A04BC9B6133E293C6185B50B /* SUNYUJUANLib.xcconfig */;
+			baseConfigurationReference = 86CC0AB53E0977C05635D0549B33E465 /* SUNYUJUANLib.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
